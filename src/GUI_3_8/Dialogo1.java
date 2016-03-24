@@ -1,4 +1,4 @@
-package GUI_3_8;
+package gui_3_8;
 
 import javax.swing.JOptionPane;
 
